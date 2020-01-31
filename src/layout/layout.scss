@@ -41,6 +41,10 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 
+	@media all and (min-width: 1050px) {
+		display: none;
+	}
+
 	.row {
 		height: 2px;
 		background-color: #cf9140;

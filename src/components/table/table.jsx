@@ -3,8 +3,6 @@ import React from 'react';
 import './table.scss';
 
 const Table = ({ table }) => {
-	console.log(table);
-
 	return (
 		<div className="table-column">
 			<h5>{table.day}</h5>

@@ -1,10 +1,10 @@
 import React from 'react';
 
-import logo from '../images/logo_events.webp';
-import wecallpoker from '../images/wecallpoker_events.webp';
-import nottingham from '../images/Nottingham.webp';
-import dtd from '../images/dtd.webp';
-import backgroundImage from '../images/events.webp';
+import logo from '../images/logo_events.png';
+import wecallpoker from '../images/wecallpoker_events.png';
+import nottingham from '../images/nottingham.png';
+import dtd from '../images/dtd.png';
+import backgroundImage from '../images/events.png';
 
 import Layout from '../layout/layout';
 import SEO from '../components/seo';

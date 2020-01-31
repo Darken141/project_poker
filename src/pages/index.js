@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import wecallpoker from '../images/Name.webp';
-import backgroundImage from '../images/home.webp';
+import wecallpoker from '../images/name.png';
+import backgroundImage from '../images/home.png';
 
 import Layout from '../layout/layout';
 import SEO from '../components/seo';

@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import gamblingTherapyHand from '../../images/gambling_therapy_hand.webp';
-import knowYourLimits from '../../images/know_your_limits.webp';
+import gamblingTherapyHand from '../../images/gambling_therapy_hand.png';
+import knowYourLimits from '../../images/know_your_limits.png';
 
 import './footer.scss';
 

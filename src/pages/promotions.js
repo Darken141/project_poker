@@ -1,6 +1,6 @@
 import React from 'react';
 
-import backgroundImage from '../images/promotions.webp';
+import backgroundImage from '../images/promotions.png';
 
 import TableList from '../components/tableList/tableList';
 import Layout from '../layout/layout';

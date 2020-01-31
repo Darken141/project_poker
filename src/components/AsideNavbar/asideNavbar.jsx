@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import logo from '../../images/Logo.webp';
-import wecallpoker from '../../images/wecallpoker_navbar.webp';
-import text from '../../images/text.webp';
+import logo from '../../images/logo.png';
+import wecallpoker from '../../images/wecallpoker_navbar.png';
+import text from '../../images/text.png';
 
 import facebook from '../../images/facebook.webp';
 import twitter from '../../images/twitter.webp';

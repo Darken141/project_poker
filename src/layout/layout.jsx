@@ -7,7 +7,6 @@ import './layout.scss';
 
 const Layout = ({ children }) => {
 	const [ showmenu, SetShowMenu ] = useState(false);
-	console.log(showmenu);
 
 	return (
 		<div className="background">

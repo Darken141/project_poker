@@ -1,6 +1,6 @@
 import React from 'react';
 
-import backgroundImage from '../images/vip.webp';
+import backgroundImage from '../images/vip.png';
 
 import Layout from '../layout/layout';
 import SEO from '../components/seo';

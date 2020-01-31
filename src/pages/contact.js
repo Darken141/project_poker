@@ -1,6 +1,6 @@
 import React from 'react';
 
-import backgroundImage from '../images/contact.webp';
+import backgroundImage from '../images/contact.png';
 
 import Form from '../components/form/form';
 import Layout from '../layout/layout';
