@@ -4,13 +4,17 @@
 	background-color: rgb(0, 0, 0);
 	// min-width: 25rem;
 	width: 0;
-	min-height: 100vh;
+	height: 100vh;
 	overflow: hidden;
 	transition: all 0.3s ease-in-out;
 	visibility: hidden;
 	z-index: 9999;
 	overflow-y: auto;
+	padding-bottom: 2rem;
 
+	&::-webkit-scrollbar {
+		display: none;
+	}
 	// min-width: 22rem;
 
 	@media all and (min-width: 1050px) {

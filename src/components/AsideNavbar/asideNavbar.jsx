@@ -5,10 +5,10 @@ import logo from '../../images/logo.png';
 import wecallpoker from '../../images/wecallpoker_navbar.png';
 import text from '../../images/text.png';
 
-import facebook from '../../images/facebook.webp';
-import twitter from '../../images/twitter.webp';
-import instagram from '../../images/instagram.webp';
-import linkedin from '../../images/linkin.webp';
+import facebook from '../../images/facebook.png';
+import twitter from '../../images/twitter.png';
+import instagram from '../../images/instagram.png';
+import linkedin from '../../images/linkedin.png';
 
 import './asideNavbar.scss';
 
