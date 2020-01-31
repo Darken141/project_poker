@@ -12,6 +12,11 @@ form {
 			background-color: #333;
 			border: none;
 			border-bottom: 1px solid #cf9140;
+			color: #fff;
+
+			&::placeholder {
+				color: #999;
+			}
 		}
 
 		.name {
@@ -28,6 +33,11 @@ form {
 		border: none;
 		border-bottom: 1px solid #cf9140;
 		margin-bottom: 2rem;
+		color: #fff;
+
+		&::placeholder {
+			color: #999;
+		}
 	}
 
 	.cta {
