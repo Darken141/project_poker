@@ -1,0 +1,59 @@
+h5 {
+	font-size: 3rem;
+	text-align: center;
+	font-weight: lighter;
+	color: black;
+	background: linear-gradient(#cf9140, #eed7ba);
+	// background-color: #eed7ba;
+	min-width: 25rem;
+	border-bottom: 2px solid #eed7ba;
+}
+
+.table-row {
+	display: flex;
+	justify-content: space-evenly;
+	text-align: center;
+	flex-wrap: wrap;
+}
+.table-column {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-width: 27rem;
+	margin-bottom: 3rem;
+}
+
+.table__head {
+	display: flex;
+	justify-content: space-evenly;
+
+	.table__cell {
+		font-size: 1.8rem;
+		font-weight: bold;
+	}
+}
+
+.table__body {
+	display: flex;
+	justify-content: center;
+
+	.time {
+		border-bottom: 2px solid #eed7ba;
+		padding: 0.5rem 1rem;
+		border-left: none;
+		border-right: none;
+	}
+
+	.promotion {
+		border: 2px solid #eed7ba;
+		padding: 0.5rem 1rem;
+		border-top: none;
+	}
+
+	.price {
+		border-bottom: 2px solid #eed7ba;
+		padding: 0.5rem 1rem;
+		border-right: none;
+		border-left: none;
+	}
+}
