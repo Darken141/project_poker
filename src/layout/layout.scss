@@ -70,6 +70,10 @@ body {
 		// overflow-y: auto;
 		transition: all 0.3s ease-in-out;
 
+		.width {
+			width: 70%;
+		}
+
 		@media all and (min-width: 1050px) {
 			font-family: 'Roboto', sans-serif;
 			position: relative;
@@ -103,7 +107,7 @@ body {
 		h1 {
 			font-family: 'Roboto Slab';
 			color: #cf9140;
-			font-size: 5rem;
+			font-size: 4rem;
 			text-align: center;
 		}
 

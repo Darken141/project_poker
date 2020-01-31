@@ -19,9 +19,9 @@ const IndexPage = () => (
 			<h2>Presents</h2>
 			<h1>Cash Game Poker Tour</h1>
 			<h2>IN:</h2>
-			<img src={nottingham} alt="nottingham text" className="centerImage" />
+			<img src={nottingham} alt="nottingham text" className="centerImage width" />
 			<h2>AT:</h2>
-			<img src={dtd} alt="dusktilldawn logo" className="centerImage" />
+			<img src={dtd} alt="dusktilldawn logo" className="centerImage  width" />
 			<h3 className="mb-30 center">06th of February - 09th of February 2020</h3>
 			<h3 className="mb-30 center">
 				Four days and over £10,000 GTE in hourly prizes! This is the story of Cash Game Poker Tour
